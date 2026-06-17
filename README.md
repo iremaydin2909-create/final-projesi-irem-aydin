@@ -29,3 +29,7 @@ pip install pandas streamlit matplotlib
 
 # Uygulamanın başlatılması
 streamlit run app.py
+
+
+## Tanıtım Videosu
+[https://drive.google.com/file/d/1ft2D_V-1v7imtBh8uvBhDBSKS_AQwL39/view?usp=sharing]
